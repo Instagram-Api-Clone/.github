@@ -15,7 +15,7 @@ A comprehensive backend service simulating a modern social media platform like I
 
 <br/>
 
-[![Scalar API Portal](https://img.shields.io/badge/Run_in-Scalar_API_Portal-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://8.233.191.128/reference.html)
+[![Scalar API Portal](https://img.shields.io/badge/Run_in-Scalar_API_Portal-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://8.233.191.128/reference.html#)
 
 [![Postman Collection](https://img.shields.io/badge/Postman-Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/placeholder-collection-link)
 
